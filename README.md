@@ -5,7 +5,7 @@ This project demonstrates hands-on API security testing performed against a loca
 
 The objective was to assess authentication, authorization, input validation, and rate limiting mechanisms and map findings to OWASP API Security Top 10.
 
- Tools Used
+Tools Used
 
 Kali Linux
 
