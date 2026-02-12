@@ -15,7 +15,7 @@ Browser Developer Tools
 
 OWASP Juice Shop (Docker local setup)
 
- Testing Methodology
+Testing Methodology
 
 Captured API endpoints via browser DevTools
 
