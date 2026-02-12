@@ -64,3 +64,6 @@ Object-level authorization flaws
 API attack surface analysis
 
 Security testing using command-line tools
+
+⚠️ This testing was performed in a controlled lab environment for educational purposes.
+
